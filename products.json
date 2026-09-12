@@ -1,0 +1,46 @@
+[
+  {
+    "sku": "SHOE-001",
+    "name": "Trailblazer Running Shoes",
+    "category": "Footwear",
+    "price": 89.99,
+    "currency": "USD",
+    "description": "Lightweight running shoes with breathable mesh upper and cushioned sole. Ideal for daily runs and light trail use.",
+    "colors": ["Black", "Grey", "Blue"],
+    "sizes": ["6", "7", "8", "9", "10", "11"],
+    "stock": 42
+  },
+  {
+    "sku": "SHOE-002",
+    "name": "UrbanWalk Sneakers",
+    "category": "Footwear",
+    "price": 64.99,
+    "currency": "USD",
+    "description": "Casual everyday sneakers with a minimalist design and memory foam insole.",
+    "colors": ["White", "Black"],
+    "sizes": ["6", "7", "8", "9", "10"],
+    "stock": 15
+  },
+  {
+    "sku": "BAG-010",
+    "name": "Commuter Backpack",
+    "category": "Bags",
+    "price": 45.00,
+    "currency": "USD",
+    "description": "Water-resistant backpack with padded 15-inch laptop compartment and USB charging port.",
+    "colors": ["Charcoal", "Navy"],
+    "sizes": ["One Size"],
+    "stock": 0
+  },
+  {
+    "sku": "WATCH-005",
+    "name": "Pulse Fitness Watch",
+    "category": "Electronics",
+    "price": 129.99,
+    "currency": "USD",
+    "description": "Fitness tracker with heart rate monitor, sleep tracking, and 7-day battery life. Water resistant to 50m.",
+    "colors": ["Black", "Rose Gold"],
+    "sizes": ["One Size"],
+    "stock": 8
+  }
+]
